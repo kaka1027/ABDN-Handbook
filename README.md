@@ -45,10 +45,4 @@
 
 ## 许可证
 
-MIT License
-
----
-
-Aberdeen Institute of Data Science and Artificial Intelligence Freshman Handbook
-
-This project provides a comprehensive guide for new students, including study tips, campus life, food recommendations, and preparation advice. English and Chinese versions are available.
+Creative Commons Attribution 4.0 International Public License

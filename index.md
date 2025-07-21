@@ -9,4 +9,7 @@ hero:
     - theme: brand
       text: Get Started
       link: /guide
+    - theme: alt
+      text: About
+      link: /README.md
 ---

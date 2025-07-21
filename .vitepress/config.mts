@@ -14,9 +14,10 @@ export default defineConfig({
         nav: [
           { text: '首页', link: '/' },
           { text: '快速开始', link: '/guide' },
+          { text: '关于此项目', link: '/README.md' },
         ],
         footer: {
-          message: '欢迎来到阿伯丁数据科学与人工智能学院',
+          message: '根据 知识共享署名 4.0 国际许可协议 进行许可',
           copyright: 'Copyleft © 2025 AptS:1547'
         },
         docFooter: {
@@ -49,9 +50,10 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Quick Start', link: '/en/guide' },
+          { text: 'About This Project', link: '/en/README.md' },
         ],
         footer: {
-          message: 'Welcome to the Aberdeen Institute of Data Science and Artificial Intelligence',
+          message: 'Licensed under the Creative Commons Attribution 4.0 International License',
           copyright: 'Copyleft © 2025 AptS:1547'
         },
         docFooter: {
