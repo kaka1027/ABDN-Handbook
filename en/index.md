@@ -1,6 +1,6 @@
 # ABD-Handbook
 
-新手生存指南
+Freshman Survival Guide
 
 - [Food List](./FoodList.md)
 - [College Life](./CollegeLife.md)

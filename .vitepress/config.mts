@@ -12,12 +12,12 @@ export default defineConfig({
       description: "阿伯丁数据科学与人工智能学院新生手册指南",
       themeConfig: {
         nav: [
-          { text: '首页', link: '/zh-cn/' },
-          { text: '快速开始', link: '/zh-cn/guide' },
+          { text: '首页', link: '/' },
+          { text: '快速开始', link: '/guide' },
         ],
         footer: {
-          message: '基于 MIT 许可证发布',
-          copyright: 'Copyright © 2025 AptS:1547'
+          message: '欢迎来到阿伯丁数据科学与人工智能学院',
+          copyright: 'Copyleft © 2025 AptS:1547'
         },
         docFooter: {
           prev: '上一页',
@@ -51,8 +51,8 @@ export default defineConfig({
           { text: 'Quick Start', link: '/en/guide' },
         ],
         footer: {
-          message: 'Released under the MIT License',
-          copyright: 'Copyright © 2025 AptS:1547'
+          message: 'Welcome to the Aberdeen Institute of Data Science and Artificial Intelligence',
+          copyright: 'Copyleft © 2025 AptS:1547'
         },
         docFooter: {
           prev: 'Previous page',
@@ -86,7 +86,7 @@ export default defineConfig({
 
   themeConfig: {
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/AptS-1547/ABD-Handbook' }
     ],
 
     search: {
